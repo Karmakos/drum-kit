@@ -50,7 +50,6 @@ document.addEventListener("keydown", function (KeyboardEvent) {
             break;
  
         default:
-            alert("Incorrect!")
             break;
     }
 }
